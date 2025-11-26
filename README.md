@@ -6,5 +6,3 @@ También muestra un descuento y un porcentage de IVA y el total de euros que cue
 En cada clase hay atributos, constructor, get y set de cada atributo y métodos poo funciones que se relacionan o no con otras clases.
 
 La parte normal del proyecto es la carpeta generado y la src la mejorada.
-
-cambio
